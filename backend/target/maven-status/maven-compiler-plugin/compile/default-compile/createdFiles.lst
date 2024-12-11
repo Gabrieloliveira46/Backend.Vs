@@ -1,0 +1,3 @@
+com\app\pedidos\models\PedidoModel.class
+com\app\pedidos\models\ClienteModel.class
+com\app\pedidos\repositories\ClienteRepository.class
